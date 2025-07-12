@@ -1,0 +1,19 @@
+2025-06-16  
+
+
+100000000059
+
+Date format is wrong in stat io 
+
+[ForcastDataAudit_ID]
+
+93
+
+100 - Not same value in file which is reported
+
+105 , 72 ,  ponds
+
+70 to be cjeck
+
+PM41408658
+
