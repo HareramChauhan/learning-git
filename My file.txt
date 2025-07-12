@@ -11,7 +11,9 @@ Date format is wrong in stat io
 
 100 - Not same value in file which is reported
 
-105 , 72 ,  ponds - Done
+105 , 72 ,  ponds - Change 
+
+
 
 70 to be cjeck
 
